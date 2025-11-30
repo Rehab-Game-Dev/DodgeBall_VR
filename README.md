@@ -18,4 +18,4 @@ https://github.com/Rehab-Game-Dev/BetIt/wiki
 
 link to itch io:
 
-https://itch.io/game/edit/4080674
+[https://itch.io/game/edit/4080674](https://ori755.itch.io/bet-it-ori)
