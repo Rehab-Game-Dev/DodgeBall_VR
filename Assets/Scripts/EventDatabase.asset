@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f78fe9ad5c610744af1efb9e9df2b8a, type: 3}
+  m_Name: EventDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::EventDatabase
+  events:
+  - title: yossi vs moshe
+    optionA:
+      fighterName: 
+      ratio: 1.5
+      chanceToWin: 60
+      heatGain: 2
+    optionB:
+      fighterName: 
+      ratio: 2
+      chanceToWin: 40
+      heatGain: 3
+  - title: dana vs tali
+    optionA:
+      fighterName: 
+      ratio: 1.8
+      chanceToWin: 55
+      heatGain: 3
+    optionB:
+      fighterName: 
+      ratio: 2.2
+      chanceToWin: 45
+      heatGain: 4
+  - title: tigers vs bears
+    optionA:
+      fighterName: 
+      ratio: 2
+      chanceToWin: 50
+      heatGain: 2
+    optionB:
+      fighterName: 
+      ratio: 2
+      chanceToWin: 50
+      heatGain: 2
